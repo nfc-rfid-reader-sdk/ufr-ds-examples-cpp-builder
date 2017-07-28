@@ -19,3 +19,5 @@ src/uFR_AES_tester.bpr -text
 src/uFR_AES_tester.cpp -text
 src/uFR_AES_tester.res -text
 src/uFR_AES_tester.~bpr -text
+tmp/Unit1.obj -text
+tmp/uFR_AES_tester.obj -text
