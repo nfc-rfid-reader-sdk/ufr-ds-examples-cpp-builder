@@ -1,1 +1,5 @@
 * text=auto !eol
+out/Mifare[!!-~]Desfire[!!-~]demo[!!-~]tester.exe -text
+out/uFCoder-x86.dll -text
+out/uFR_AES_tester.exe -text
+out/uFR_AES_tester.tds -text
